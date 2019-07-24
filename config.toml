@@ -7,11 +7,8 @@ paginate = 10
 disqusShortname = "spf13"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-minimalist-theme"
-# Remove this line if you use this theme for a real website.
-# It allows you to preview the theme within the exampleSite folder
-# with the hugo server command
-themesDir = "../.."
+theme = "themes/hugo-minimalist-theme"
+themesDir = ""
 
 [params]
     site_author = "John Doe"
