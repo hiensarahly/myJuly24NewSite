@@ -8,8 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "index": "hugo-lunr", 
     "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "hugo-lunr"
 }
   },
   "repository": {
